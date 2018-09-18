@@ -20,6 +20,9 @@ export class TimeLifting extends React.Component {
           margin="20px auto"
           overflow="overflow"
         />
+        <a href="https://codepen.io/gaearon/pen/EmmOqJ?editors=0010">
+          Código resuelto
+        </a>
       </React.Fragment>
     );
   }
