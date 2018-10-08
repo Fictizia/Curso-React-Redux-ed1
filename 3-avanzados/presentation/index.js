@@ -135,7 +135,7 @@ export default class Presentation extends React.Component {
 
         <Slide bgColor={QUATERNARY}>
           <BlockQuote>
-            <Quote>Cuenta atrás en segundos y hh:mm:ss</Quote>
+            <Quote>Reloj que muestra la hora local (AM/PM)</Quote>
             <Cite>Ejercicio</Cite>
           </BlockQuote>
         </Slide>
@@ -154,7 +154,7 @@ export default class Presentation extends React.Component {
 
         <Slide bgColor={QUATERNARY}>
           <BlockQuote>
-            <Quote>Pequeño UI Kit con styleguidist</Quote>
+            <Quote>Pequeño UI Kit con styleguidist + Semantic React</Quote>
             <Cite>Ejercicio</Cite>
           </BlockQuote>
         </Slide>
